@@ -1,3 +1,3 @@
 # dcsa-website-project
-An amazing website for IT fest.
+An amazing website for Information Technology fest.
 
